@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs><linearGradient id="gz" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#2A6B4F"/><stop offset="100%" stop-color="#0A1A13"/></linearGradient></defs>
+  <rect width="100%" height="100%" fill="#D98E2E"/>
+  <text x="50%" y="14%" font-family="Inter, Arial" font-size="44" fill="#0F2A1F" font-weight="700" text-anchor="middle">Zambezi Sunset</text>
+</svg>

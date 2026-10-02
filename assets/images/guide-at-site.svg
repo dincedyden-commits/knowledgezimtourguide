@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <rect width="100%" height="100%" fill="#F7F5F0"/>
+  <rect x="60" y="120" width="1480" height="560" rx="14" fill="#E8F4FF"/>
+  <circle cx="220" cy="380" r="120" fill="#1F4D3A"/>
+  <rect x="380" y="300" width="860" height="260" rx="12" fill="#D4A017" opacity="0.95"/>
+  <text x="50%" y="16%" font-family="Inter, Arial" font-size="44" fill="#123B2B" font-weight="700" text-anchor="middle">Guide at site</text>
+  <text x="50%" y="22%" font-family="Inter, Arial" font-size="20" fill="#123B2B" text-anchor="middle">At a viewpoint or lodge showing guests around</text>
+</svg>

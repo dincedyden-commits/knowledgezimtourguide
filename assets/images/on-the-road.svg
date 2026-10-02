@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#F8D49D"/>
+      <stop offset="100%" stop-color="#E07A1F"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0F2A1F"/>
+  <rect y="0" width="100%" height="60%" fill="url(#g1)" opacity="0.95"/>
+  <g fill="#0F2A1F" transform="translate(0,520)">
+    <rect x="0" y="120" width="1600" height="260"/>
+  </g>
+  <path d="M0 600 L400 480 L800 520 L1200 460 L1600 500" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" fill="none" opacity="0.08"/>
+  <g transform="translate(140,420)">
+    <rect x="0" y="0" width="560" height="220" rx="18" fill="#123B2B"/>
+    <circle cx="100" cy="110" r="80" fill="#D4A017"/>
+  </g>
+  <text x="50%" y="14%" font-family="Inter, Arial" font-size="52" fill="#0F2A1F" font-weight="700" text-anchor="middle">On the road</text>
+  <text x="50%" y="20%" font-family="Inter, Arial" font-size="28" fill="#0F2A1F" text-anchor="middle">Knowledge driving between locations</text>
+</svg>
